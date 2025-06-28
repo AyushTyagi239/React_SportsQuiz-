@@ -12,7 +12,7 @@ An interactive sports trivia application built with React, featuring advanced st
 
 ## 🖥️ Demo
 
-![App Screenshot](./public/images/demo-screenshot.png)
+
 *Live demo: [GitHub Pages Link](#) (add when deployed)*
 
 ## 🛠️ Technologies
