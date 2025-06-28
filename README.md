@@ -12,7 +12,7 @@ An interactive sports trivia application built with React, featuring advanced st
 
 ## 🖥️ Demo
 
-
+![App Screenshot](https://github.com/AyushTyagi239/React_SportsQuiz-/blob/main/photo-collage.png?raw=true)
 *Live demo: [GitHub Pages Link](#) (add when deployed)*
 
 ## 🛠️ Technologies
